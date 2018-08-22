@@ -1,4 +1,3 @@
-"Hello World people"
-"Glad you could join them"
+"Hello David Powell"
+"Glad you could join us"
 "Welcome back"
-"Roundabout"
